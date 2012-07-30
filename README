@@ -1,10 +1,10 @@
 Swedish language pack for PunBB 1.4.2
 
-This translation is complete, but may still contain typos.
-It is the one used at http://planka.huggpunkt.org/
+This translation is complete, except for the installation process
+which is left untranslated. There should be typos.
 
-    Home:   http://planka.huggpunkt.org/topic/35/
-    Repo:   https://github.com/simio/punbb-sv
+    Home page:      http://planka.huggpunkt.org/topic/35/
+    GitHub repo:    https://github.com/simio/punbb-sv
 
 
 INSTALLATION
