@@ -1,0 +1,28 @@
+Swedish language pack for PunBB 1.4.2
+
+This translation is complete, but may still contain typos.
+It is the one used at http://planka.huggpunkt.org/
+
+    Home:   http://planka.huggpunkt.org/topic/35/
+    Repo:   https://github.com/simio/punbb-sv
+
+
+INSTALLATION
+
+Either:
+
+    1. Click "ZIP" button on GitHub
+    2. Extract the resulting archive
+    3. Rename the folder to 'Swedish'
+    4. Put it in the punbb/lang/ folder
+    5. ...and check back to either of the
+       addresses above for updates.
+
+Or:
+
+    $ cd path/to/punbb/lang
+    $ git clone git://github.com/simio/punbb-sv.git Swedish
+
+    ...and fetch updates with:
+
+    $ git pull
