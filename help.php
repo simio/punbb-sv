@@ -39,6 +39,6 @@ $lang_help = array(
 'produces decimal list'	=>	'skapar en numrerad lista.',
 'produces alpha list'	=>	'skapar en alfabetiserad lista.',
 'Bold, underlined text'	=>	'Fetstilt, understruken text (ett typografiskt helgerån)',
-'Smilies info'			=>	'Om du vill (och det är tillåtet) så kan forumet konvertera flera smilies till grafiska gubbar. Forumet känner igen följande smilies, och ersätter dem med gubbar.',
+'Smilies info'			=>	'Om du vill (och det är tillåtet) så kan forumet konvertera flera smilies till emojis. Forumet känner igen följande smilies, och ersätter dem med emojis.',
 
 );
